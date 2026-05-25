@@ -78,7 +78,7 @@ Project Structure 📂
 └── README.md
 How to Run the Project ▶️
 Clone the repository:
-git clone https://github.com/your-username/ecommerce-sales-analysis.git
+git clone https://github.com/navinyanakhate/ecommerce-sales-analysis.git
 Install required libraries:
 pip install pandas numpy matplotlib seaborn
 Open Jupyter Notebook:
